@@ -19,7 +19,7 @@ public class Jr {
     public static void main(String[] args) {
         int mark[] = new int [6];
      int i;
-     int u = 1;
+     int u = 2;
      String grd;
      float sum=0, avg;
      Scanner scan = new Scanner(System.in);
